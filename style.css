@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color:black;
+}
+.grid{
+    margin: 10px;
+    padding: 10px;
+}
+.row{
+    margin: 2px;
+}
+.group1 div{
+    background-color: rgb(51, 124, 243);
+    border: 1px solid black;
+    padding: 5px;
+}
+.group2 div{
+    background-color: rgb(8, 105, 29);
+    border: 1px solid black;
+    padding: 5px;
+}
+.group3 div{
+    background-color: rgb(8, 29, 143);
+    border: 1px solid black;
+    padding: 5px;
+}
+.group4 div{
+    background-color:#a50cec;
+    border: 1px solid black;
+    padding: 5px;
+}
+.group5 div{
+    background-color: rgb(128, 8, 128);
+    border: 1px solid black;
+    padding: 5px;
+}
+.group6 div{
+    background-color:#ff1a75;
+    border: 1px solid black;
+    padding: 5px;
+}
+.group7 div{
+    background-color:#b30000;
+    border: 1px solid black;
+    padding: 5px;
+}
